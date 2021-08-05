@@ -12,8 +12,11 @@
  определить человека с максимальной суммой выплат.
 */
 #include <iostream>
+#include <vector>
+#include <string>
 
 int main() {
+    std::vector<string> name[2]
     std::cout << "Hello, World!" << std::endl;
     return 0;
 }
